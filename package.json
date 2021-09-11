@@ -1,9 +1,11 @@
 {
-    "name": "pargo-auth",
-    "version": "1.0.0",
-    "description": "pargo auth nodejs auth backend for accompanying JS front end",
-    "devDependencies": {
-      "dotenv": "^10.0.0"
-    }
+  "name": "pargo-auth",
+  "version": "1.0.0",
+  "description": "pargo auth nodejs auth backend for accompanying JS front end",
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.12"
   }
-  
+}
